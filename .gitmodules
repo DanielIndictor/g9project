@@ -1,0 +1,9 @@
+[submodule "board/KiCad-RP-Pico"]
+	path = board/KiCad-RP-Pico
+	url = git@github.com:ncarandini/KiCad-RP-Pico.git
+[submodule "board/Eagle-and-KiCAD-Nixie-Libs"]
+	path = board/Eagle-and-KiCAD-Nixie-Libs
+	url = git@github.com:judge2005/Eagle-and-KiCAD-Nixie-Libs.git
+[submodule "board/KiCad-libs"]
+	path = board/KiCad-libs
+	url = git@github.com:jh1995/KiCad-libs.git
