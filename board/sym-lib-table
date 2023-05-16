@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "board")(type "KiCad")(uri "${KIPRJMOD}/board.kicad_sym")(options "")(descr ""))
+  (lib (name "nixie")(type "KiCad")(uri "${KIPRJMOD}/KiCad-libs/nixie.kicad_sym")(options "")(descr ""))
+)
