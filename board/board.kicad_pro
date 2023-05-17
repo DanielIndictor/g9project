@@ -329,8 +329,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "board"
+    ],
+    "pinned_symbol_libs": [
+      "board"
+    ]
   },
   "meta": {
     "filename": "board.kicad_pro",
